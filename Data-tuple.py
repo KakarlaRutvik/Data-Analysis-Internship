@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[1]:
+# Data Analysis with Python Week - 1 Task
+# Data structures in python 
 
 
 my_tuple=(7,18,33,45,93)
